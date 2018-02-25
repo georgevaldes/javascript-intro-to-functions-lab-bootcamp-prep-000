@@ -13,3 +13,8 @@ function whisper(string)
   console.log(string.toLowerCase())
   return string.toLowerCase()
 }
+
+function logWhisper(string)
+{
+  console.log(string.toLowerCase())
+}
